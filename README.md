@@ -11,7 +11,8 @@ Setup and Usage
 Project Structure
 Results
 Visualization
-Introduction
+Introduction:
+
 This project optimizes sorting algorithms using GA, PSO, and ANN. It selects the best algorithm for a dataset and predicts execution time based on dataset features.
 
 Features
