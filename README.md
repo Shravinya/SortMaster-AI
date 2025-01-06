@@ -9,10 +9,6 @@ This project optimizes sorting algorithms using Genetic Algorithm (GA), Particle
 1. [Introduction](#introduction)  
 2. [Features](#features)  
 3. [Technologies Used](#technologies-used)  
-4. [Setup and Usage](#setup-and-usage)  
-5. [Project Structure](#project-structure)  
-6. [Results](#results)  
-7. [Visualization](#visualization)
 
 ---
 
