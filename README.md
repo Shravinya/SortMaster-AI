@@ -35,11 +35,7 @@ This project optimizes sorting algorithms using GA, PSO, and ANN. It selects the
 - **Matplotlib**  
 - **TensorFlow/Keras**
 
----
-
-## Setup and Usage
-
-### Prerequisites
-Ensure Python 3.8+ is installed along with the following libraries:
-```bash
-pip install numpy matplotlib tensorflow
+sorting-optimization/
+├── sorting_optimization.py  # Main script containing the implementation
+├── README.md                # Documentation for the project
+└── requirements.txt         # Required dependencies
